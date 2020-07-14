@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github-markdown-preview/static/css/main.43d28dfc.chunk.css",
+    "main.js": "/github-markdown-preview/static/js/main.c1f942c5.chunk.js",
+    "main.js.map": "/github-markdown-preview/static/js/main.c1f942c5.chunk.js.map",
+    "runtime-main.js": "/github-markdown-preview/static/js/runtime-main.d4335be2.js",
+    "runtime-main.js.map": "/github-markdown-preview/static/js/runtime-main.d4335be2.js.map",
+    "static/js/2.8c50f51d.chunk.js": "/github-markdown-preview/static/js/2.8c50f51d.chunk.js",
+    "static/js/2.8c50f51d.chunk.js.map": "/github-markdown-preview/static/js/2.8c50f51d.chunk.js.map",
+    "index.html": "/github-markdown-preview/index.html",
+    "precache-manifest.8e96ab5099f20904f9be46af83c9956e.js": "/github-markdown-preview/precache-manifest.8e96ab5099f20904f9be46af83c9956e.js",
+    "service-worker.js": "/github-markdown-preview/service-worker.js",
+    "static/css/main.43d28dfc.chunk.css.map": "/github-markdown-preview/static/css/main.43d28dfc.chunk.css.map",
+    "static/js/2.8c50f51d.chunk.js.LICENSE.txt": "/github-markdown-preview/static/js/2.8c50f51d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4335be2.js",
+    "static/js/2.8c50f51d.chunk.js",
+    "static/css/main.43d28dfc.chunk.css",
+    "static/js/main.c1f942c5.chunk.js"
+  ]
+}
